@@ -307,7 +307,7 @@
             </div>
             
             <div class="button-container">
-                <a href="YOUR_GOOGLE_FORM_LINK_HERE" class="cta-button">Get Your Personalized Recommendations</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSERYTMSu0WzxUrU62dW7vZtIh0BkxhHBaYVgh8pL1Ntnfwg/viewform?usp=header" class="cta-button">Get Your Personalized Recommendations</a>
             </div>
             
             <div class="testimonial">
@@ -389,7 +389,7 @@
         </section>
         
         <div class="button-container">
-            <a href="YOUR_GOOGLE_FORM_LINK_HERE" class="cta-button">Get Your Personalized Recommendations</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSERYTMSu0WzxUrU62dW7vZtIh0BkxhHBaYVgh8pL1Ntnfwg/viewform?usp=header" class="cta-button">Get Your Personalized Recommendations</a>
         </div>
         
         <section>
@@ -412,12 +412,12 @@
         </section>
         
         <div class="button-container">
-            <a href="YOUR_GOOGLE_FORM_LINK_HERE" class="cta-button">Find Your Perfect Next Read</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSERYTMSu0WzxUrU62dW7vZtIh0BkxhHBaYVgh8pL1Ntnfwg/viewform?usp=header" class="cta-button">Find Your Perfect Next Read</a>
         </div>
     </main>
     
     <footer>
-        <p>© 2025 BookMatchAI. All rights reserved.</p>
+        <p>© 2025 Find Your Next Perfect Read. All rights reserved.</p>
         <p><small>Book recommendations are provided based on your stated preferences. Purchase links may include affiliate codes.</small></p>
     </footer>
 
